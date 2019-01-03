@@ -1,5 +1,5 @@
- <br/>
-Examples: <br/>
+
+Examples:
 
 <img src="https://github.com/leungjch/identicon_generator/blob/master/identicons/Screenshots/1111_Third.png" width="256">
 <img src="https://github.com/leungjch/identicon_generator/blob/master/identicons/Screenshots/1133_get.png" width="256">
